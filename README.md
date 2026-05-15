@@ -3,6 +3,9 @@
 A **production-ready, hybrid game recommendation engine** built with Python and Streamlit. It analyses the Steam 200K dataset to deliver personalised, explainable game recommendations using multiple AI/ML algorithms.
 
 ---
+#Live Demo
+https://game-recommendation-system-2wcobkgrahurptsfbhga2g.streamlit.app/
+---
 
 ## 📌 Project Description
 
